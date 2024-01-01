@@ -1,2 +1,2 @@
 # Knights-Tour-Problem
-Data structures implemenatation for the knights tour problem
+Data structures implementation for the knights tour problem
